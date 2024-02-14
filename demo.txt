@@ -3,3 +3,5 @@ This is the first created document.
 This is the second line of this document.
 
 Now we are adding a third line.
+
+This is the 4th line of text added to demo.txt
