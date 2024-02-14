@@ -1,2 +1,0 @@
-This is a temporary file that will be created
-as part of exercise 6. This file will have a change in its name to exercise6.txt, and then will be deleted
