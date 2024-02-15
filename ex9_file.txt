@@ -6,4 +6,4 @@ command (git pull) and how git handles collaborations, through merging changes.
 
 #--- LOCAL CHANGE ------------------------------ This is a local change in line 7
 
-#----- THIS IS A REMOTE CHANGE IN THE FILE ---------------------
+#----- THIS IS A REMOTE CHANGE IN THE FILE ---- and this a change in the remote file
