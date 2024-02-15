@@ -5,3 +5,5 @@ command (git pull) and how git handles collaborations, through merging changes.
 2. This line has been created from the remote (github) repository.
 
 #--- LOCAL CHANGE ------------------------------------------------
+
+#----- THIS IS A REMOTE CHANGE IN THE FILE ---------------------
