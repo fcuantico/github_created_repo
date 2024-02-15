@@ -4,6 +4,6 @@ command (git pull) and how git handles collaborations, through merging changes.
 1. This is the first line created which was created locally.
 2. This line has been created from the remote (github) repository.
 
-#--- LOCAL CHANGE ------------------------------------------------
+#--- LOCAL CHANGE ------------------------------ This is a local change in line 7
 
 #----- THIS IS A REMOTE CHANGE IN THE FILE ---------------------
