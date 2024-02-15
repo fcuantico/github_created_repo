@@ -2,3 +2,4 @@ This file correspond to exercise 9, which is related to the pull
 command (git pull) and how git handles collaborations, through merging changes.
 
 1. This is the first line created which was created locally.
+2. This line has been created from the remote (github) repository.
