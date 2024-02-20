@@ -5,3 +5,6 @@ This is the second line of this document.
 Now we are adding a third line.
 
 This is the 4th line of text added to demo.txt
+
+%--- Line added for Exercise 11 -----------------
+This is a new line for exercise 11
