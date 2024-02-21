@@ -5,3 +5,13 @@ This is the second line of this document.
 Now we are adding a third line.
 
 This is the 4th line of text added to demo.txt
+
+
+
+--- The lines below are for exercise 11 about the stash comand---
+So the stash comand is about puting your work on hold, to achive this we need the following protocol:
+1. git stash save <stash name> <-- reserve your work to be able to work later and moves you to your previous commit
+2. git checkout <branch of interest>
+3. Checkc changes in the branch of interest
+4. git checkout <your working branch> 
+5. git stash pop <-- calls your reserved worked to be able to keep working 
