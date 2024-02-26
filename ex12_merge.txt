@@ -6,3 +6,5 @@ This line has been added in the main Branch
 
 #--- The following line corrects the conflict-----------------------
 This is the last line
+
+#--- New line created in ex12_merge_local_branch -------------------
