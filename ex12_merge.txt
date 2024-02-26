@@ -4,5 +4,5 @@ prob 1: For this exercise we will merge two brnaches without conflict.
 #--- Main Branch Created line --------------------------------------
 This line has been added in the main Branch
 
-#--- ex12_merge_branch ---------------------------------------------
-line added
+#--- The following line corrects the conflict-----------------------
+This is the last line
