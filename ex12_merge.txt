@@ -8,4 +8,6 @@ This line has been added in the main Branch
 This is the last line
 
 #--- Change done in main Brnach ------------------------------------
-This change is for mergeing locally
+
+#--- New line created in ex12_merge_local_branch -------------------
+>>>>>>> ex12_merge_local_branch
